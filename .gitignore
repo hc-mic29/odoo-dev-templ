@@ -1,0 +1,11 @@
+# dotfiles, with exceptions:
+.*
+!.gitignore
+# python compiled files
+*.py[co]
+# emacs backup files
+*~
+#pycharm
+#put here pycharm generate gitignore
+# not tracked subdirectories
+

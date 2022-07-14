@@ -12,6 +12,8 @@
 #put here pycharm generated gitignore
 #
 # not tracked subdirectories
+note
+#quiero excluir note pero no nota n tampoco carpeta notes
 /src/*
 /env/*
 /logs/*

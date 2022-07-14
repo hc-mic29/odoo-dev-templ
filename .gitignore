@@ -1,0 +1,18 @@
+# dotfiles, with exceptions:
+.*
+!.gitignore
+# python compiled files
+*.py[co]
+# emacs backup files
+*~
+# configuracion del servidor Odoo
+# TODO # podría ponerse en filestore
+*.cfg
+#pycharm
+#put here pycharm generated gitignore
+#
+# not tracked subdirectories
+/src/*
+/env/*
+/logs/*
+!/logs/carpeta/
